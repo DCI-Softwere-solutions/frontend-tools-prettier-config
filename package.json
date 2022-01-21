@@ -1,0 +1,22 @@
+{
+  "name": "@DCI-Softwere-solutions/prettier-config",
+  "version": "1.0.0",
+  "description": "A shareable Prettier config for DCISS projects.",
+  "author": "Atif Riaz",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/esportsconstruct-public/frontend-tools/prettier-config.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/esportsconstruct-public/frontend-tools/prettier-config/issues"
+  },
+  "homepage": "https://gitlab.com/esportsconstruct-public/frontend-tools/prettier-config#readme"
+}
